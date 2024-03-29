@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 #languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hugo Site'
 theme = 'PaperMod'
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
@@ -14,7 +14,7 @@ hasCJKLanguage = true
 [author]
   name = "zhou"
   email = "orcbig@gmail.com"
-  link = "https://www.u1s1.vip"
+  link = "https://hh8.xyz"
 
 # 菜单配置
 [menu]
