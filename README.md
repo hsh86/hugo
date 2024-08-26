@@ -8,4 +8,8 @@ hugo server
 hugo new posts/my-first-post.md
 hugo new content posts/hello.md
 hugo server -D
+
+
 ```
+
+**https://hsh86.github.io/hugo/**
