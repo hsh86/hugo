@@ -9,11 +9,4 @@ title: "关于"
 date: 2022-06-27T15:12:50+08:00
 ---
 
-**phygerr@gmail.com**
-
-公众号：Python研究所
-
-扫码关注
-
-![公众号](/static/vx.jpg)
-
+**orcbig@gmail.com**
