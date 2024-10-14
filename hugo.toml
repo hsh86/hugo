@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-title = 'my blog'
+title = 'blog'
 theme = 'PaperMod'
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
